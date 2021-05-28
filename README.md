@@ -108,6 +108,10 @@ If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Terminal
 
+#### Shell
+
+* [Alacritty](https://github.com/alacritty/alacritty) - A fast, cross-platform, OpenGL terminal emulator
+
 #### [tmux](https://github.com/tmux/tmux)
 
 * [Zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
